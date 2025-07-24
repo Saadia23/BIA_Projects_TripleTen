@@ -3,7 +3,8 @@ Projects I worked on while attending the Business Intelligence Analyst TripleTen
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Norbu stress control| The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 1 | NYC AirBNB| The project task was to analyze and determine the top 10 NYC neighborhoods for booking on Airbnb. Further analysis was done to extract the top earning Airbnb listing from September 2022 to October 2022 |
+| 2 | Business Analytics Project for an E-commerce Company| The project task was to analyze customer data and figure out the conversaion funnel and retension rates |
+| 3 | Saving Superstore! | The project task was to utilize Tableau to find the Profts & Losses, the best combinations of US States and months of the year for advertising, and the average Return Rate for Superstore  |
+| 4 | Data Story Telling: Superstore | The project task was to utilize Tableau to figure out why Superstore was dealing with a high number of returned orders |
+| 5 | Shopify App Store | The project task was to utilize Power BI to review the landscape of apps in the Shopify platform and figure out what key factors allowed a Shopify app to succeed |
